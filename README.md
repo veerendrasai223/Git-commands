@@ -3,7 +3,7 @@
 - git clone "repolink"
 - git status
 - git add filename
-- git add
+- git add *
 - git config user.name "username"
 - git config user.email "email"
 - git commit -m "commitmassage"
