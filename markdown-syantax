@@ -1,0 +1,20 @@
+## unorder list
+-eee
+      * eeeA 
+       *  eeeB
+-sem              
+      + semm1  
+        +sam2
+    
+    
+    
+    -apsadc
+    -kits
+## code
+``` python
+def fun():
+     print("hello kits eee")
+```
+```
+fun()
+```
